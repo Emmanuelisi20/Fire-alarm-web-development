@@ -1,4 +1,4 @@
-# <h1 align="center">Fire & Security System Web indterface </h1>
+# <h1 align="center">Fire & Security System Web interface </h1>
 <p align="center">
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform-Web"/>
 	<img src="https://img.shields.io/badge/Version-2.5.7-green.svg" alt="Version-2.5.7"/>
