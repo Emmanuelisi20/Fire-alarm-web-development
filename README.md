@@ -4,14 +4,16 @@
 	<img src="https://img.shields.io/badge/Version-2.5.7-green.svg" alt="Version-2.5.7"/>
 	<img src="https://img.shields.io/badge/Repo_Size-11_MB-orange.svg" alt="Repo_Size-11_MB"/>
   	<img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" alt="Language-HTML,_CSS,_JS"/>
-	<img src="https://img.shields.io/badge/Library-jQuery-0769ad.svg" alt="Library-jQuery"/>
   	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/> <br/><br/><br/>
 </p>
 
 <h1 align="center"><a href="https://fire-alarm.netlify.app/">Click To Visit</a></h1>
+<br>
+<br>
 <center><p> Coordinated with teams of two computer science students to implement a collaborative development project during our advanced software
 engineering course. Performed code reviews of other team members' work and recommended changes on how they could improve their code quality. Applied dependent features and layouts using HTML and CSS/Bootstrap to design multiple responsive web applications.</p></center>
-
+<br>
+<br>
 <h3> Browser Compatibility </h3>
 <Center><table>
   <tr align="center">
