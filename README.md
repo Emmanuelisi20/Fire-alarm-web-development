@@ -1,2 +1,7 @@
 # Fire-alarm-system
-•	Collaborative project that was referred to my advanced software engineering course. We included different dependent features and layouts using (HTML, CSS) and created a data base using (PHP) in our project that would be reliability, available and dependable.
+
+Fire & Security System Project, Project Team Leader January 2019 – May 2020
+• Coordinated a team of two computer science students to implement a collaborative development project during our advanced software
+engineering course.
+• Performed code reviews of other team members' work and recommended changes on how they could improve their code quality.
+• Applied dependent features and layouts using HTML and CSS/Bootstrap to design multiple responsive web applications.
