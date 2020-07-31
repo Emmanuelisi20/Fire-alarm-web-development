@@ -9,6 +9,8 @@
 </p>
 
 <h1 align="center"><a href="https://fire-alarm.netlify.app/">Click To Visit</a></h1>
+<center><p> Coordinated with teams of two computer science students to implement a collaborative development project during our advanced software
+engineering course. Performed code reviews of other team members' work and recommended changes on how they could improve their code quality. Applied dependent features and layouts using HTML and CSS/Bootstrap to design multiple responsive web applications.</p></center>
 
 <h3> Browser Compatibility </h3>
 <Center><table>
