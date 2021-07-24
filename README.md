@@ -7,7 +7,7 @@
   	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/> <br/><br/><br/>
 </p>
 
-<h1 align="center"><a href="https://fire-alarm.netlify.app/">Click To Visit</a></h1>
+<h1 align="center"><a href="https://fire-alarm.netlify.app/home.html">Click To Visit</a></h1>
 <br>
 <br>
 <center><p> 🚨 Description Of Our Project 🚨
