@@ -10,8 +10,14 @@
 <h1 align="center"><a href="https://fire-alarm.netlify.app/">Click To Visit</a></h1>
 <br>
 <br>
-<center><p> Coordinated with teams of two computer science students to implement a collaborative development project during our advanced software
-engineering course. Performed code reviews of other team members' work and recommended changes on how they could improve their code quality. Applied dependent features and layouts using HTML and CSS/Bootstrap to design multiple responsive web applications.</p></center>
+<center><p> 🚨 Description Of Our Project 🚨
+
+Fire detection and alarm systems provide several devices working together to detect and warn people in a location where there is a fire hazard. We are using an automatic and manual fire alarm system to sense the detection of fire. The system we use audible and visual signals that can be helpful to display notifications appliances on a fire alarm system. We are using a Multi-Sensor detector to help combine the detection of heat and smoke in giving an indicator of a fire which would activate the fire sprinkler systems in the building. And we are using Manual Call Point as a manual emergency backup system to activate the fire alarm systems manually. Also, using a control panel (FACP), which is the (Brains) controlling all the sensors. It helps to transmit in signals used to alert first responder devices.
+
+
+🚨Types of Fire Alarm Detectors Devices 🚨
+
+Multi-Sensor Detector :- Multi-sensor detectors are designed to sense smoke, heat and carbon monoxide (CO). Manual Call Point is a alarm signal, That operate by simply pressing a button manually raising an alarm system emergency signals.   Fire Sprinklers This system is an active fire protection consisting of a water supply. adequate pressure a water distribution  towards a fire outbreak. Audible Devices are devices that are used for fire alarm notifications. It helps to alert the occupants of a fire or other emergency condition requiring evacuation. Examples are horns, bells and buzzers. Visual Devices are flashing lights used as fire alarm signals. They help to give safely directions to occupants that are evacuating a fire hazard in a building. Examples are (Strobes Lights) and (Exit LED Signs) etc. </p></center>
 <br>
 <br>
 <h3> Browser Compatibility </h3>
