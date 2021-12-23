@@ -20,21 +20,3 @@ Fire detection and alarm systems provide several devices working together to det
 Multi-Sensor Detector :- Multi-sensor detectors are designed to sense smoke, heat and carbon monoxide (CO). Manual Call Point is a alarm signal, That operate by simply pressing a button manually raising an alarm system emergency signals.   Fire Sprinklers This system is an active fire protection consisting of a water supply. adequate pressure a water distribution  towards a fire outbreak. Audible Devices are devices that are used for fire alarm notifications. It helps to alert the occupants of a fire or other emergency condition requiring evacuation. Examples are horns, bells and buzzers. Visual Devices are flashing lights used as fire alarm signals. They help to give safely directions to occupants that are evacuating a fire hazard in a building. Examples are (Strobes Lights) and (Exit LED Signs) etc. </p></center>
 <br>
 <br>
-<h3> Browser Compatibility </h3>
-<Center><table>
-  <tr align="center">
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" /> </td>
-  </tr>
-  <tr align="center">
-    <td> ✔ </td>
-    <td> ✔ </td>
-    <td> ✔ </td>
-    <td> ✔ </td>
-    <td> ✔ </td>
-  </tr>
-</table>
-</Center>
